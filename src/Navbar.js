@@ -4,6 +4,7 @@ import React from 'react';
 function Navbar() {
     return (
         <div>
+            <img class='company-logo' src='logo.png' alt='company logo'></img>
          <ul>
                 <li class='nav-bar-list'><a class='nav-bar-a' href="#home">GET STARTED</a></li>
                 <li class='nav-bar-list'><a class='nav-bar-a' href="#news">PRODUCTS</a></li>
