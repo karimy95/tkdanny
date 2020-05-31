@@ -1,30 +1,82 @@
 .nav-bar-list {
     display: inline;
-    padding: 10px;
     font-size: 13px;
     font-weight: bold;
     font-family:sans-serif;
     text-decoration: none;
+    margin : 0 0 0 100px;
   }
   
   .nav-bar-a {
     color: #666666;
+    margin-left: 10px;
     text-decoration: none;
   }
-  
-  .aux-nav-bar-item {
-    float : right;
-  }
-  
-  
-  .company-logo {
-    width: 100px;
-    float : left;
-    padding: 0%;
-    margin: 0%;
+
+
+  .nav-bar-aux-icon {
+    color: #666666;
+    margin-right: 20px;
+    text-decoration: none;
+    float: right;
   }
 
+
+  .company-logo {
+    width: 60px;
+    position : absolute;
+    margin-top: -10px;
+    margin-left : 30px;
+    padding-left: 0%;
+  }
+  
   .farm-trailer {
     width: 100% ;
   }
   
+  
+  .video-overlay {
+    position:absolute;
+    top:55%;
+    left:42%;
+    color : white;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  
+  #trailer-button{
+    background-color: #263645; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    font-weight: bold;
+  }
+  
+  
+  .footer-list{
+    list-style-type: none;
+    text-align: left;
+    background-color: #DDDDDD;
+    color: #4E4E4E; 
+    margin:0px;
+  }
+  
+  .main-text-general{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #263645;
+    font-family: cursive;
+  }
+  
+  
+  .category-by-picture {
+    width: 50%;
+    
+  }

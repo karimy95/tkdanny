@@ -18,8 +18,6 @@
     "predeploy" : "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://karimy95.github.io/tkdanny",
-  
   "eslintConfig": {
     "extends": "react-app"
   },
