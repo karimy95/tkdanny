@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tkdanny/static/css/main.5f361e03.chunk.css",
-    "main.js": "/tkdanny/static/js/main.5ca8cebb.chunk.js",
-    "main.js.map": "/tkdanny/static/js/main.5ca8cebb.chunk.js.map",
+    "main.css": "/tkdanny/static/css/main.8d28616e.chunk.css",
+    "main.js": "/tkdanny/static/js/main.2d4e3436.chunk.js",
+    "main.js.map": "/tkdanny/static/js/main.2d4e3436.chunk.js.map",
     "runtime-main.js": "/tkdanny/static/js/runtime-main.30d5eb89.js",
     "runtime-main.js.map": "/tkdanny/static/js/runtime-main.30d5eb89.js.map",
     "static/js/2.0f10a6d9.chunk.js": "/tkdanny/static/js/2.0f10a6d9.chunk.js",
     "static/js/2.0f10a6d9.chunk.js.map": "/tkdanny/static/js/2.0f10a6d9.chunk.js.map",
     "index.html": "/tkdanny/index.html",
-    "precache-manifest.4cf22ff77805237b36ee6f741d58760a.js": "/tkdanny/precache-manifest.4cf22ff77805237b36ee6f741d58760a.js",
+    "precache-manifest.5bc80af9ce80f23616212579d8ef326a.js": "/tkdanny/precache-manifest.5bc80af9ce80f23616212579d8ef326a.js",
     "service-worker.js": "/tkdanny/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/tkdanny/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.8d28616e.chunk.css.map": "/tkdanny/static/css/main.8d28616e.chunk.css.map",
     "static/js/2.0f10a6d9.chunk.js.LICENSE.txt": "/tkdanny/static/js/2.0f10a6d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.30d5eb89.js",
     "static/js/2.0f10a6d9.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5ca8cebb.chunk.js"
+    "static/css/main.8d28616e.chunk.css",
+    "static/js/main.2d4e3436.chunk.js"
   ]
 }
