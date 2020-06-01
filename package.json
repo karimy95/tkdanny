@@ -1,8 +1,8 @@
 {
+  "homepage": "http://karimy95.github.io/tkdanny",
   "name": "companywebsite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://karimy95.github.io/tkdanny",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

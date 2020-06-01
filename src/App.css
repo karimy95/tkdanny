@@ -1,33 +1,6 @@
-.nav-bar-list {
-    display: inline;
-    font-size: 13px;
-    font-weight: bold;
-    font-family:sans-serif;
-    text-decoration: none;
-    margin : 0 0 0 100px;
-  }
-  
-  .nav-bar-a {
-    color: #666666;
-    margin-left: 10px;
-    text-decoration: none;
-  }
-
-
-  .nav-bar-aux-icon {
-    color: #666666;
-    margin-right: 20px;
-    text-decoration: none;
-    float: right;
-  }
-
 
   .company-logo {
     width: 60px;
-    position : absolute;
-    margin-top: -10px;
-    margin-left : 30px;
-    padding-left: 0%;
   }
   
   .farm-trailer {
@@ -75,8 +48,43 @@
     font-family: cursive;
   }
   
-  
-  .category-by-picture {
-    width: 50%;
-    
-  }
+
+.company-message{
+  font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    float : center;
+    color: #263645;
+    font-family: 'Segoe UI';
+    margin-bottom: 2%;
+}
+
+
+
+.btn-w-10{
+  width: 20%;
+  overflow: hidden;
+  position: relative;
+  margin-left: 40%;
+  background-color: #263645; 
+  border: none;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 12px;
+  font-weight: bold;
+}
+
+
+.container-text-left {
+  font-family: 'Segoe UI';
+  color:green;
+}
+
+
+
+.background-grey{
+  background-color: #F1EFED ;
+}
+
