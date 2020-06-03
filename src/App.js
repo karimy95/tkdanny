@@ -1,17 +1,18 @@
 import React from 'react';
-import './App.css';
 import Navbar from './Navbar';
-import LoopingVideo from './LoopingVideo';
-import Companymessage from './Companymessage';
+import FeaturedProducts from './FeaturedProducts';
 import CategoryByPicture from './CategorybyPicture';
+import SlideShow from './SlideShow';
+import Footer from './Footer';
 
 function App() {
   return (
     <div>
       <Navbar/>
-      <LoopingVideo/>
-      <Companymessage/>
+      <SlideShow/>
+      <FeaturedProducts/>
       <CategoryByPicture/>
+      <Footer/>
     </div>
   );
 }
