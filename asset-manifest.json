@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.css": "/tkdanny/static/css/main.d4ffb167.chunk.css",
-    "main.js": "/tkdanny/static/js/main.9c23f3c9.chunk.js",
-    "main.js.map": "/tkdanny/static/js/main.9c23f3c9.chunk.js.map",
+    "main.css": "/tkdanny/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/tkdanny/static/js/main.c2df38ee.chunk.js",
+    "main.js.map": "/tkdanny/static/js/main.c2df38ee.chunk.js.map",
     "runtime-main.js": "/tkdanny/static/js/runtime-main.30d5eb89.js",
     "runtime-main.js.map": "/tkdanny/static/js/runtime-main.30d5eb89.js.map",
-    "static/js/2.79815513.chunk.js": "/tkdanny/static/js/2.79815513.chunk.js",
-    "static/js/2.79815513.chunk.js.map": "/tkdanny/static/js/2.79815513.chunk.js.map",
+    "static/js/2.2f2dcad8.chunk.js": "/tkdanny/static/js/2.2f2dcad8.chunk.js",
+    "static/js/2.2f2dcad8.chunk.js.map": "/tkdanny/static/js/2.2f2dcad8.chunk.js.map",
     "index.html": "/tkdanny/index.html",
-    "precache-manifest.632711f7d7cc128b883d750c1a7b0427.js": "/tkdanny/precache-manifest.632711f7d7cc128b883d750c1a7b0427.js",
+    "precache-manifest.b7935e3cf49c787bfbcf9a598761d890.js": "/tkdanny/precache-manifest.b7935e3cf49c787bfbcf9a598761d890.js",
     "service-worker.js": "/tkdanny/service-worker.js",
-    "static/css/main.d4ffb167.chunk.css.map": "/tkdanny/static/css/main.d4ffb167.chunk.css.map",
-    "static/js/2.79815513.chunk.js.LICENSE.txt": "/tkdanny/static/js/2.79815513.chunk.js.LICENSE.txt",
-    "static/media/fruits.png": "/tkdanny/static/media/fruits.958f7184.png",
+    "static/css/main.d498bfb3.chunk.css.map": "/tkdanny/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.2f2dcad8.chunk.js.LICENSE.txt": "/tkdanny/static/js/2.2f2dcad8.chunk.js.LICENSE.txt",
+    "static/media/featured1.png": "/tkdanny/static/media/featured1.0b166dd1.png",
+    "static/media/featured2.png": "/tkdanny/static/media/featured2.d9f9cc4b.png",
+    "static/media/featured3.png": "/tkdanny/static/media/featured3.5a8d1df7.png",
+    "static/media/fruits.png": "/tkdanny/static/media/fruits.fced3bf0.png",
     "static/media/grains.png": "/tkdanny/static/media/grains.09eba0b6.png",
     "static/media/pulses.png": "/tkdanny/static/media/pulses.4693dd80.png",
+    "static/media/slideshow1.png": "/tkdanny/static/media/slideshow1.a1ef4dc8.png",
+    "static/media/slideshow2.png": "/tkdanny/static/media/slideshow2.a72dc626.png",
+    "static/media/slideshow3.png": "/tkdanny/static/media/slideshow3.c678981b.png",
     "static/media/vegetables.png": "/tkdanny/static/media/vegetables.4f104835.png"
   },
   "entrypoints": [
     "static/js/runtime-main.30d5eb89.js",
-    "static/js/2.79815513.chunk.js",
-    "static/css/main.d4ffb167.chunk.css",
-    "static/js/main.9c23f3c9.chunk.js"
+    "static/js/2.2f2dcad8.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.c2df38ee.chunk.js"
   ]
 }
