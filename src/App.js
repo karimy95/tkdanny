@@ -1,20 +1,22 @@
-import React from 'react';
-import Navbar from './Navbar';
-import FeaturedProducts from './FeaturedProducts';
-import CategoryByPicture from './CategorybyPicture';
-import SlideShow from './SlideShow';
-import Footer from './Footer';
+import React, { Component } from 'react';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
-function App() {
-  return (
-    <div>
-      <Navbar/>
-      <SlideShow/>
-      <FeaturedProducts/>
-      <CategoryByPicture/>
-      <Footer/>
-    </div>
-  );
+import MainPage from './components/mainpage/MainPage';
+import AdminPage from './components/adminpage/AdminPage';
+
+
+class App extends Component {
+  render() {
+    return (
+      <Router>
+        <div>
+          <Route exact path='/' component={MainPage}/>
+          <Route path='/admin' component={AdminPage} />
+        </div>
+      </Router>
+    );
+  }
 }
 
 export default App;
+

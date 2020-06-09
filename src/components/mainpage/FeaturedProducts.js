@@ -6,6 +6,7 @@ import featured3 from './media/featured3.png';
 
 
 
+
 function FeaturedProducts() {
     return (
 
